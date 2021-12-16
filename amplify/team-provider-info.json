@@ -13,7 +13,12 @@
     },
     "categories": {
       "auth": {
-        "cognitocf0c6096": {}
+        "amplifyrecab11bb52": {
+          "userPoolId": "us-west-2_JtaF4Ffqa",
+          "userPoolName": "RecDirectWebUsers",
+          "webClientId": "4tpo8v01mkcmgnka2qbr0rempq",
+          "nativeClientId": "4tpo8v01mkcmgnka2qbr0rempq"
+        }
       }
     }
   }
