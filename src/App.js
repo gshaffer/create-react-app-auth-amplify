@@ -14,7 +14,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Local Edit! Wow that was fast
+            Local Edit! Wow that was fast be auth try 2
           </p>
           <a
             className="App-link"
